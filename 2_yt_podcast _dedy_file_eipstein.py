@@ -4,7 +4,7 @@ from itertools import islice
 
 downloader = YoutubeCommentDownloader()
 
-video_url = 'https://www.youtube.com/watch?v=1WEAJ-DFkHE'
+video_url = 'https://www.youtube.com/watch?v=7jVP22C0jxY&t=206s'
 
 print(f"--- Memulai Scraping YouTube: {video_url} ---")
 
