@@ -4,7 +4,7 @@ import pandas as pd
 # Menggunakan shopee karena ulasan nya banyak
 app_id = 'com.shopee.id' 
 
-print(f"--- Memulai Scraping Google Play Store untuk: {app_id} ---")
+print(f" Memulai Scraping Google Play Store untuk: {app_id} ")
 
 # Proses pengambilan data
 result, _ = reviews(
